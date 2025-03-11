@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC29E8D-55C8-4592-BA37-CE59086041AB}|MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC29E8D-55C8-4592-BA37-CE59086041AB}|MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025.vcxproj|solutionrelative:MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC29E8D-55C8-4592-BA37-CE59086041AB}|MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\fisier.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CC29E8D-55C8-4592-BA37-CE59086041AB}|MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025.vcxproj|solutionrelative:MED_SDD_sedinta2_08.03.2025\\fisier.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fisier.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\fisier.txt",
+              "RelativeDocumentMoniker": "MED_SDD_sedinta2_08.03.2025\\fisier.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\fisier.txt",
+              "RelativeToolTip": "MED_SDD_sedinta2_08.03.2025\\fisier.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-08T06:32:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MED_SDD_sedinta2.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c",
+              "RelativeDocumentMoniker": "MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\SDD_2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c",
+              "RelativeToolTip": "MED_SDD_sedinta2_08.03.2025\\MED_SDD_sedinta2.c",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T06:14:42.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
