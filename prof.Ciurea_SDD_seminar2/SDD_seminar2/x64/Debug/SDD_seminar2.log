@@ -1,0 +1,10 @@
+﻿  SDD_seminar2.c
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(27,50): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(28,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(47,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(49,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(65,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(67,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(78,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\SDD_seminar2.c(86,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+  SDD_seminar2.vcxproj -> D:\RESTANTE\2.2. SDD recuperare\seminare prof. Ciurea\SDD_seminar2 - Copy\x64\Debug\SDD_seminar2.exe
