@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|solutionrelative:SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|solutionrelative:SDD_seminar3_10.03.2025\\Carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carte.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5C0F0EA-0036-4658-B8F3-A7D3B6B18FBF}|SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.vcxproj|solutionrelative:SDD_seminar3_10.03.2025\\Carte.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SDD_seminar3_10.03.2025.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c",
+              "RelativeDocumentMoniker": "SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c",
+              "RelativeToolTip": "SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025.c",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAAM8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T12:55:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carti.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carti.txt",
+              "RelativeDocumentMoniker": "SDD_seminar3_10.03.2025\\Carti.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carti.txt",
+              "RelativeToolTip": "SDD_seminar3_10.03.2025\\Carti.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-10T13:04:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carte.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carte.txt",
+              "RelativeDocumentMoniker": "SDD_seminar3_10.03.2025\\Carte.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\seminare prof. Vasilescu\\SDD_seminar3_10.03.2025\\SDD_seminar3_10.03.2025\\Carte.txt",
+              "RelativeToolTip": "SDD_seminar3_10.03.2025\\Carte.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-10T13:04:01.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
