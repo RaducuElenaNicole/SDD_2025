@@ -1,0 +1,18 @@
+﻿  SDD_seminar3_LD.c
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(57,9): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(59,14): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(60,13): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(87,20): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(88,13): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(105,8): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(121,8): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(129,10): warning C4133: 'initializing': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(145,8): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(156,10): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(171,13): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(191,21): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(192,21): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(201,11): warning C4133: '=': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(188,13): warning C4133: 'initializing': incompatible types - from 'nodLD *' to 'nodLD *'
+D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\SDD_seminar3\SDD_seminar3_LD.c(189,13): warning C4133: 'initializing': incompatible types - from 'nodLD *' to 'nodLD *'
+  SDD_seminar3.vcxproj -> D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\seminare prof. Ciurea\prof.Ciurea_SDD_seminar3\x64\Debug\SDD_seminar3.exe
