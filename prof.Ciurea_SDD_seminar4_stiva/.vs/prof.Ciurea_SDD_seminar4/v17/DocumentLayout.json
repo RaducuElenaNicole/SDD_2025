@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A2E1A-0181-486A-9178-F2EC12CD011B}|prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E1A2E1A-0181-486A-9178-F2EC12CD011B}|prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.vcxproj|solutionrelative:prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A2E1A-0181-486A-9178-F2EC12CD011B}|prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\Stiva.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E1A2E1A-0181-486A-9178-F2EC12CD011B}|prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.vcxproj|solutionrelative:prof.Ciurea_SDD_seminar4\\Stiva.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prof.Ciurea_SDD_seminar4.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c",
+              "RelativeDocumentMoniker": "prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c",
+              "RelativeToolTip": "prof.Ciurea_SDD_seminar4\\prof.Ciurea_SDD_seminar4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T10:02:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stiva.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\Stiva.txt",
+              "RelativeDocumentMoniker": "prof.Ciurea_SDD_seminar4\\Stiva.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\prof.Ciurea_SDD_seminar4_stiva\\prof.Ciurea_SDD_seminar4\\Stiva.txt",
+              "RelativeToolTip": "prof.Ciurea_SDD_seminar4\\Stiva.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T10:27:33.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
