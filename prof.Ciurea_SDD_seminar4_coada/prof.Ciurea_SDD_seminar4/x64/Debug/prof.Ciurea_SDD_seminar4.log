@@ -1,6 +1,0 @@
-﻿  prof.Ciurea_SDD_seminar4.c
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\prof.Ciurea_SDD_seminar4_coada\prof.Ciurea_SDD_seminar4\prof.Ciurea_SDD_seminar4.c(47,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\prof.Ciurea_SDD_seminar4_coada\prof.Ciurea_SDD_seminar4\prof.Ciurea_SDD_seminar4.c(64,11): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\prof.Ciurea_SDD_seminar4_coada\prof.Ciurea_SDD_seminar4\prof.Ciurea_SDD_seminar4.c(85,8): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\prof.Ciurea_SDD_seminar4_coada\prof.Ciurea_SDD_seminar4\prof.Ciurea_SDD_seminar4.c(77,1): warning C4715: 'get': not all control paths return a value
-  prof.Ciurea_SDD_seminar4.vcxproj -> D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\prof.Ciurea_SDD_seminar4_coada\x64\Debug\prof.Ciurea_SDD_seminar4.exe
