@@ -1,7 +1,0 @@
-﻿  Seminar4_LD.c
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\prof.Vasilescu_SDD_seminar4_17.03.2025\Seminar4_LD.c(9,9): warning C4068: unknown pragma 'Structurile_De_Baza'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\prof.Vasilescu_SDD_seminar4_17.03.2025\Seminar4_LD.c(29,9): warning C4068: unknown pragma 'Carti'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\prof.Vasilescu_SDD_seminar4_17.03.2025\Seminar4_LD.c(47,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\prof.Vasilescu_SDD_seminar4_17.03.2025\Seminar4_LD.c(84,9): warning C4068: unknown pragma 'Operatii_De_Baza_Lista_Dublu_Inlantuita'
-D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\prof.Vasilescu_SDD_seminar4_17.03.2025\Seminar4_LD.c(168,9): warning C4068: unknown pragma 'Operatii_Lista_Dublu_Inlantuita'
-  prof.Vasilescu_SDD_seminar4_17.03.2025.vcxproj -> D:\FACULTATE\RESTANTE\2.2. SDD recuperare\git cod seminare + med\SDD_2025\prof.Vasilescu_SDD_seminar4_17.03.2025\x64\Debug\prof.Vasilescu_SDD_seminar4_17.03.2025.exe
