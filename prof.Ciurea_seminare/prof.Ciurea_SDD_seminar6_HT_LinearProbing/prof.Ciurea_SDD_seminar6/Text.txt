@@ -1,0 +1,6 @@
+5
+24 Mihai 9.5
+47 Andrei 8.3
+48 Maria 6.9
+70 Stefania 9.9
+94 Ioana 7.8
