@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prof.Vasilescu_SDD_seminar6_31.03.2025", "prof.Vasilescu_SDD_seminar6_31.03.2025\prof.Vasilescu_SDD_seminar6_31.03.2025.vcxproj", "{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Debug|x64.ActiveCfg = Debug|x64
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Debug|x64.Build.0 = Debug|x64
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Debug|x86.Build.0 = Debug|Win32
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Release|x64.ActiveCfg = Release|x64
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Release|x64.Build.0 = Release|x64
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Release|x86.ActiveCfg = Release|Win32
+		{1F96ABF0-EB1D-451C-A4A8-6B7B6AD37104}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9FBB0E6-2D52-43B5-A8B9-656FBEA6E341}
+	EndGlobalSection
+EndGlobal
