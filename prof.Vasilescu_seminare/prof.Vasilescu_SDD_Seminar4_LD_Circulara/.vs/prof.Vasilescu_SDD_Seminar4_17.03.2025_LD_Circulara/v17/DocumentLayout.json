@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE7B60D-5499-43C6-9DAD-19086A88EB10}|prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDE7B60D-5499-43C6-9DAD-19086A88EB10}|prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara.vcxproj|solutionrelative:prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE7B60D-5499-43C6-9DAD-19086A88EB10}|prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDE7B60D-5499-43C6-9DAD-19086A88EB10}|prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara.vcxproj|solutionrelative:prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminar4_LDC.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c",
+              "RelativeDocumentMoniker": "prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c",
+              "RelativeToolTip": "prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Seminar4_LDC.c",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwHoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T17:53:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carti.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt",
+              "RelativeDocumentMoniker": "prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\git cod seminare \u002B med\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt",
+              "RelativeToolTip": "prof.Vasilescu_SDD_Seminar4_17.03.2025_LD_Circulara\\Carti.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-17T17:54:42.402Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
