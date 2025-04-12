@@ -1,0 +1,8 @@
+1,5,Ana,Stefan,67.9
+2,6,Andrei,Teodora,60.8
+3,2,Mihai,George,45.7
+4,3,George,Andrei,54.8
+5,4,Ioana,Alexandru,87.1
+6,3,Georgescu,Andreea,54.8
+7,5,Ana,Stefan,67.9
+8,5,Anamaria,Stefania,67.9
