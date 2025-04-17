@@ -1,0 +1,8 @@
+10,Elexius,2,Ana,490.99
+7,Mercur,1,Mihai,550.99
+12,Olimp,5,Amalia,799.99
+2,Jupiter,3,Andreea,899.50
+5,Central,2,Cosmin,1799.50
+15,Ramada,2,Ioana,2500
+3,Vega,1,Stefania,3500
+17,Pluto,3,Maria,4499.55
