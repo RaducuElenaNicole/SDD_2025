@@ -1,0 +1,11 @@
+10
+1 Bogdan 6.9
+2 Andrei 10
+3 Andreea 5.55
+4 Mihaela 3.6
+5 Mihai 9.50
+11 Ioana 6.90
+81 Ioan 10
+32 Teodora 3.8
+52 Stefania 6.7
+62 Serenela 9
