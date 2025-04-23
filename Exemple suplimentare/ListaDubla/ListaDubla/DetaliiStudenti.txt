@@ -1,0 +1,6 @@
+5
+1 Bogdan 6.9
+2 Andrei 10
+3 Andreea 5.55
+4 Mihaela 3.6
+5 Mihai 9.50
