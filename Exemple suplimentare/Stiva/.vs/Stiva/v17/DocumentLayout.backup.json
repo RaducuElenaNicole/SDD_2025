@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\Stiva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|solutionrelative:Stiva\\Stiva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|solutionrelative:Stiva\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\Stiva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5BD2A49-1A0C-43D7-AA8F-E0B6A30DC8D7}|Stiva\\Stiva.vcxproj|solutionrelative:Stiva\\Stiva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Stiva.c",
               "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\Stiva.c",
               "RelativeDocumentMoniker": "Stiva\\Stiva.c",
               "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\Stiva.c",
               "RelativeToolTip": "Stiva\\Stiva.c",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAkwF4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwF4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-23T14:43:36.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DetaliiStudenti.txt",
               "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\Stiva\\Stiva\\DetaliiStudenti.txt",
               "RelativeDocumentMoniker": "Stiva\\DetaliiStudenti.txt",

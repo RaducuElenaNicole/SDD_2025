@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\",
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\LS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\LS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|solutionrelative:ListaSimpla\\LS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C5491BA6-DBD7-4496-BFB3-3CF359D36C0A}|ListaSimpla\\ListaSimpla.vcxproj|solutionrelative:ListaSimpla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LS.c",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\LS.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\LS.c",
               "RelativeDocumentMoniker": "ListaSimpla\\LS.c",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\LS.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\LS.c",
               "RelativeToolTip": "ListaSimpla\\LS.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv7YAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-23T11:21:02.26Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DetaliiStudenti.txt",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt",
               "RelativeDocumentMoniker": "ListaSimpla\\DetaliiStudenti.txt",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaSimpla\\ListaSimpla\\DetaliiStudenti.txt",
               "RelativeToolTip": "ListaSimpla\\DetaliiStudenti.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-23T11:48:25.471Z",
               "EditorCaption": ""

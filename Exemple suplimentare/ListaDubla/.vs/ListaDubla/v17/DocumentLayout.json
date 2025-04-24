@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\",
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\LD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\LD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|solutionrelative:ListaDubla\\LD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A8DB2699-E911-4FE0-9002-2A070B93869A}|ListaDubla\\ListaDubla.vcxproj|solutionrelative:ListaDubla\\DetaliiStudenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DetaliiStudenti.txt",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt",
               "RelativeDocumentMoniker": "ListaDubla\\DetaliiStudenti.txt",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\DetaliiStudenti.txt",
               "RelativeToolTip": "ListaDubla\\DetaliiStudenti.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LD.c",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\LD.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\LD.c",
               "RelativeDocumentMoniker": "ListaDubla\\LD.c",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\suplimentar\\ListaDubla\\ListaDubla\\LD.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Exemple suplimentare\\ListaDubla\\ListaDubla\\LD.c",
               "RelativeToolTip": "ListaDubla\\LD.c",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAkwIYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv9AAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-23T12:19:50.613Z",
               "EditorCaption": ""

@@ -83,6 +83,41 @@ void dezalocareLS(nodLS** cap) {
 	}
 }
 
+void stergereNodByMedie(nodLS** cap, float criteriuMedia) {
+	nodLS* temp = (*cap);
+	nodLS* nodPrev = NULL; 
+	while (temp) {
+		if (temp->inf.media == criteriuMedia){
+			nodLS* nodDeSters = temp;
+
+			if (temp == (*cap)) {
+				// nodul gasit dupa criteriu este primul 
+				temp = temp->next;
+				(*cap) = temp;
+				nodPrev = NULL; 
+			}
+			else if (temp->next == NULL) {
+				// nodul gasit dupa criteriu este ultimul 
+				nodPrev->next = NULL;
+				temp = NULL; 
+			}
+			else {
+				// nodul gasit dupa criteriu este la mijloc 
+				temp = temp->next;
+				nodPrev->next = temp; 
+			}
+
+			free(nodDeSters->inf.nume);
+			free(nodDeSters);
+		}
+		else {
+			// nodul curent nu indeplineste conditia => merge mai departe 
+			nodPrev = temp;
+			temp = temp->next;
+		}
+	}
+}
+
 void main() {
 	FILE* file = fopen("DetaliiStudenti.txt", "r");
 	int nrStudentiFisier = 0; 
@@ -109,8 +144,41 @@ void main() {
 	printf("\n---------------- LS - inserare inceput ---------------- \n");
 	traversareLS(capLS_1);
 
+	printf("\n\n");
+
 	printf("\n---------------- LS - inserare sfarsit ---------------- \n");
 	traversareLS(capLS_2);
 
-	dezalocareLS(&capLS_1);
+	printf("\n\n");
+
+	printf("\n---------------- LS - stergere primul nod by criteriu ---------------- \n");
+	float criteriuMedie = 6.9; 
+	stergereNodByMedie(&capLS_2, criteriuMedie);
+	traversareLS(capLS_2);
+
+	printf("\n\n");
+
+	printf("\n---------------- LS - stergere ultimul nod by criteriu ---------------- \n");
+	criteriuMedie = 9.5;
+	stergereNodByMedie(&capLS_2, criteriuMedie);
+	traversareLS(capLS_2);
+
+	printf("\n\n");
+
+	printf("\n---------------- LS - stergere nod de la mijloc by criteriu ---------------- \n");
+	criteriuMedie = 5.55;
+	stergereNodByMedie(&capLS_2, criteriuMedie);
+	traversareLS(capLS_2);
+
+	printf("\n\n");
+
+
+	/* 
+		De la faptul ca am utilizat shallow copy, campul nume partajeaza aceeasi zona de memorie =>
+		=> cand se sterge un nod, se elibereaza si zona de memorie alocata dinamic (in cazul acesta, 
+		se elibereaza nume) 
+	*/
+	traversareLS(capLS_1); 
+
+	dezalocareLS(&capLS_2);
 }

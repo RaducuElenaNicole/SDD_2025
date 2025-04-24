@@ -111,6 +111,37 @@ void dezalocareLD(nodLD** cap, nodLD** coada) {
 	(*coada) = NULL;
 }
 
+void stergereNodByMedie(nodLD** cap, nodLD** coada, float criteriuMedie) {
+	nodLD* nodDeTraversare = (*cap);
+	while (nodDeTraversare) {
+		if (nodDeTraversare->inf.media == criteriuMedie) {
+			nodLD* nodDeSters = nodDeTraversare;
+			if (nodDeTraversare->prev == NULL) {
+				// nodul gasit este primul
+				nodDeTraversare = nodDeTraversare->next; 
+				nodDeTraversare->prev = NULL; 
+				(*cap) = nodDeTraversare;
+			}
+			else if (nodDeTraversare->next == NULL) {
+				// nodul gasit este ultimul 
+				(nodDeTraversare->prev)->next = NULL;
+				(*coada) = (nodDeTraversare->prev);
+				nodDeTraversare = NULL; 
+			}
+			else {
+				(nodDeTraversare->prev)->next = nodDeTraversare->next;
+				(nodDeTraversare->next)->prev = nodDeTraversare->prev;
+				nodDeTraversare = nodDeTraversare->next;
+			}
+			free(nodDeSters->inf.nume);
+			free(nodDeSters);
+		}
+		else {
+			nodDeTraversare = nodDeTraversare->next;
+		}
+	}
+}
+
 void main() {
 	FILE* file = fopen("DetaliiStudenti.txt", "r");
 
@@ -152,5 +183,30 @@ void main() {
 	printf("\n---------------- LD - inserare sfarsit + traversare sfarsit ---------------- \n");
 	traversareSfarsitLD(coadaLD_2);
 
-	dezalocareLD(&capLD_1, &coadaLD_1);
+	printf("\n\n"); 
+
+	printf("\n---------------- LD - stergere primul nod ---------------- \n");
+	float criteriuMedie = 6.9; 
+	stergereNodByMedie(&capLD_2, &coadaLD_2, criteriuMedie);
+	traversareInceputLD(capLD_2);
+
+	printf("\n\n");
+
+	printf("\n---------------- LD - stergere primul nod ---------------- \n");
+	criteriuMedie = 9.50;
+	stergereNodByMedie(&capLD_2, &coadaLD_2, criteriuMedie);
+	traversareInceputLD(capLD_2);
+
+	printf("\n\n");
+
+	printf("\n---------------- LD - stergere nod de la mijloc ---------------- \n");
+	criteriuMedie = 5.55;
+	stergereNodByMedie(&capLD_2, &coadaLD_2, criteriuMedie);
+	traversareInceputLD(capLD_2);
+
+	printf("\n\n");
+
+	traversareSfarsitLD(coadaLD_1);
+
+	dezalocareLD(&capLD_2, &coadaLD_2);
 }
