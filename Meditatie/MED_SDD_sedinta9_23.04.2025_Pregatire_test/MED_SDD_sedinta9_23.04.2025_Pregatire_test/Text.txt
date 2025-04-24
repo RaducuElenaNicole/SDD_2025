@@ -1,0 +1,5 @@
+1,Ana,Lb. romana,2,5.68,9.6
+2,Andrei,Lb. romana,3,5.68,9.6,6.85
+3,Alex, Lb.romana, 2, 5.68, 9.6
+4,Maria, Lb.romana, 2, 5.68, 9.6
+5,Lorena, Lb.romana, 1, 5.68
