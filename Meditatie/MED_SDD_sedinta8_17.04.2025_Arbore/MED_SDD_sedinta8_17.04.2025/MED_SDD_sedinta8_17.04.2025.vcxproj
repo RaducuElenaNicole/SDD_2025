@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sedinta8.cpp" />
+    <ClCompile Include="Sedinta8.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="rezervari.txt" />

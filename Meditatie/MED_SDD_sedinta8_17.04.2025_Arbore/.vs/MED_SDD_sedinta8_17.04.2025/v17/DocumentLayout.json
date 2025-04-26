@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\",
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|solutionrelative:MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|solutionrelative:MED_SDD_sedinta8_17.04.2025\\rezervari.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|solutionrelative:MED_SDD_sedinta8_17.04.2025\\rezervari.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F24A3B3-9056-4829-9984-928FAE03170B}|MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025.vcxproj|solutionrelative:MED_SDD_sedinta8_17.04.2025\\Sedinta8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "rezervari.txt",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
               "RelativeDocumentMoniker": "MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
               "RelativeToolTip": "MED_SDD_sedinta8_17.04.2025\\rezervari.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -35,14 +35,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sedinta8.cpp",
-              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp",
-              "RelativeDocumentMoniker": "MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp",
-              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\meditatie\\MED_SDD_sedinta8_17.04.2025\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp",
-              "RelativeToolTip": "MED_SDD_sedinta8_17.04.2025\\Sedinta8.cpp",
-              "ViewState": "AgIAANwAAAAAAAAAAADwv+kAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "DocumentIndex": 1,
+              "Title": "Sedinta8.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.c",
+              "RelativeDocumentMoniker": "MED_SDD_sedinta8_17.04.2025\\Sedinta8.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\SDD_2025\\Meditatie\\MED_SDD_sedinta8_17.04.2025_Arbore\\MED_SDD_sedinta8_17.04.2025\\Sedinta8.c",
+              "RelativeToolTip": "MED_SDD_sedinta8_17.04.2025\\Sedinta8.c",
+              "ViewState": "AgIAANAAAAAAAAAAAAAkwNwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-17T05:10:05.883Z",
               "EditorCaption": ""
             }
