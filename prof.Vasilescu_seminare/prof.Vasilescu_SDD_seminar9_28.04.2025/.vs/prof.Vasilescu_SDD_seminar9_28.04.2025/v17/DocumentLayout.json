@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_seminar9_28.04.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C20EF6D-6B68-41C9-8287-45300515F5D7}|prof.Vasilescu_SDD_seminar9_28.04.2025\\prof.Vasilescu_SDD_seminar9_28.04.2025.vcxproj|D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_seminar9_28.04.2025\\prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C20EF6D-6B68-41C9-8287-45300515F5D7}|prof.Vasilescu_SDD_seminar9_28.04.2025\\prof.Vasilescu_SDD_seminar9_28.04.2025.vcxproj|solutionrelative:prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminar9.c",
+              "DocumentMoniker": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_seminar9_28.04.2025\\prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c",
+              "RelativeDocumentMoniker": "prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c",
+              "ToolTip": "D:\\FACULTATE\\RESTANTE\\2.2. SDD recuperare\\GIT_Cod seminare \u002B med_SDD_2025\\seminare prof. Vasilescu\\prof.Vasilescu_SDD_seminar9_28.04.2025\\prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c",
+              "RelativeToolTip": "prof.Vasilescu_SDD_seminar9_28.04.2025\\Seminar9.c",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-28T11:56:40.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
